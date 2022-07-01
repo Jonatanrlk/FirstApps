@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirstApps</string>
+    <string name="title">Happy Day</string>
+    <string name="title_photo">Happy Day</string>
+    <string name="autor">Jonatan R Ing Sistemas</string>
+    <string name="descrip">esta es una carita Feliz</string>
 </resources>
